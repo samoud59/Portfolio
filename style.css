@@ -146,7 +146,7 @@ header {
 /* ////........About Me........//// */
 
 .about-me {
-  background-image: url(/img/fiery-orange-sunset-sky-beautiful-sky.jpg);
+  background-image: url(/img/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring.jpg);
   background-size: cover;
   padding: 6rem 0;
   min-height: 100vh;
@@ -155,7 +155,7 @@ header {
 }
 
 .about-me .about-heading {
-  color: #25b79f;
+  color: #2a4bda;
   font-size: 2rem;
   font-weight: 600;
   text-align: center;
@@ -169,8 +169,8 @@ header {
 }
 
 .about-content p {
-  font-size: 1.2rem;
-  color: #f0f0e6;
+  font-size: 1.5rem;
+  color: black;
   padding: 0 2.3rem;
   text-align: center;
 }
@@ -178,7 +178,7 @@ header {
 .skills .skills-heading {
   font-size: 2rem;
   font-weight: 600;
-  color: #25b79f;
+  color: #2f25b7;
   text-align: center;
 }
 
@@ -229,7 +229,7 @@ header {
 
 .bar .progress-line span {
   position: absolute;
-  background: #25b79f;
+  background: #3565e9;
   height: 100%;
   border-radius: 10px;
   transform: scaleX(0);
@@ -302,7 +302,7 @@ header {
 }
 
 .navbar.solid {
-  background-color: #ad3199;
+  background-color: #3F53FF;
   transition: background-color 1s ease 0s;
   box-shadow: 0 0 4px rgb(7 55 74 / 20%);
   z-index: 500;
@@ -328,7 +328,7 @@ h1
 .work-arrow a {
   font-size: 1rem;
   text-decoration: none;
-  color: #25b79f;
+  color: #4c25b7;
 }
 
 .work-arrow-2 {
@@ -338,7 +338,7 @@ h1
 .work-arrow-2 a {
   font-size: 1rem;
   text-decoration: none;
-  color: #25b79f;
+  color: #5825b7;
   display: none;
 }
 
@@ -348,6 +348,7 @@ h1
   background-image: url(/img/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring.jpg);
   background-size: cover;
   padding: 6rem 0;
+  min-height:100vh ;
 }
 
 .proj-heading h1{
@@ -503,7 +504,7 @@ h1
 /* ////......Contact......///// */
 
 .contact {
-  background-image: url(/img/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring.jpg);
+  background-image: url(/img/sun-clouds.jpg);
   background-size: cover;
   position: relative;
   height: 92vh;
@@ -526,8 +527,8 @@ h1
 }
 
 .contact-content .mail {
-  color: #f0f0e6;
-  padding-bottom: 0.2rem;
+  color: black;
+  padding-bottom: 0.5rem;
   font-size: 1rem;
 }
 
@@ -547,6 +548,23 @@ h1
 
 .contact-content a:hover{
   color: #f0f0e6;
+}
+
+.fa-linkedin {
+  padding: 1.5rem;
+  color: blue;
+  font-size: 3rem;
+}
+.fa-github {
+  padding: 1.5rem;
+  color: #07374a;
+  font-size: 3rem;
+}
+
+.fa-envelope {
+  padding: 1rem;
+  color: black;
+  font-size: 2rem;
 }
 
 /* ////......Media query......//// */
@@ -608,7 +626,7 @@ h1
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    
     display: block;
     text-align: center;
   }
@@ -675,7 +693,7 @@ h1
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    
     display: block;
     text-align: center;
   }
@@ -724,7 +742,7 @@ h1
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    
     display: block;
     text-align: center;
   }
