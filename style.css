@@ -99,8 +99,9 @@ header {
 }
 
 .home-content .name p {
-  color: #f0f0e6;
+  color: #22220d;
   font-size: 1.5rem;
+  text-shadow: 4px 3px 4px white;
 }
 
 .angle-down-icon {
@@ -109,13 +110,13 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2rem;
-  border: 3px solid #07374a;
+  border: 3px solid #e8f0f3;
   border-radius: 50%;
 }
 
 .angle-down-icon a {
   text-decoration: none;
-  color: #07374a;
+  color: #e2e7e9;
   padding: 1rem;
 }
 
@@ -351,7 +352,7 @@ h1
   min-height:100vh ;
 }
 
-.proj-heading h1{
+.proj-heading h2{
   text-align: center;
   color: #07374a;
   font-size: 2.3rem;
@@ -384,7 +385,7 @@ h1
   color: #07374a;
 }
 
-.proj-1 .proj1-details h2{
+.proj-1 .proj1-details h4{
   font-size: 2rem;
   color: #07374a;
 }
@@ -455,7 +456,7 @@ h1
   color: #07374a;
 }
 
-.proj-2 .proj2-details h2{
+.proj-2 .proj2-details h4{
   font-size: 2rem;
   color: #07374a;
 }
